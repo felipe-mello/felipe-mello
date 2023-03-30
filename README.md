@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Felipe Mello and I am an Acoustical Engineering student and researcher from Brazil. 
+My name is Felipe Mello and I am an Acoustical Engineer, Master's student, and researcher from Brazil. 
 
 Here is where I upload some of my codes and projects, mainly functions that I use every now and then (check out my [acoustics_dsp_toolbox](https://github.com/felipe-mello/acoustics_dsp_toolbox) repo).
 
